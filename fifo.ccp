@@ -56,7 +56,7 @@ int main(int argc, char* argv[]){
                         exit(-1);
                 }
         }
-        printf("succes\n");
+        printf("success\n");
         close(fd);
-        exit(0);
+        
 }
